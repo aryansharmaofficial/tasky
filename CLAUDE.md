@@ -7,7 +7,7 @@ Tasky is a basic to-do list mobile app. Add tasks, check them off, and see what'
 Busy students and young professionals who want to capture tasks quickly and get on with their day.
 
 ## Design rules
-- Mobile first: design at 390px width.
+- Mobile first: target device is iPhone 18 Pro, screen size 402 x 874.
 - Clean and minimal: lots of whitespace, no clutter.
 - One accent color only (see `context/brand.md`).
 - 8px spacing system: all margins, padding, and gaps are multiples of 8px.
